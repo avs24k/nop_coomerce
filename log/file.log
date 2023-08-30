@@ -1,0 +1,18 @@
+2023-06-15 19:28:38,846: INFO: Test_RegiPage: root: click on registration page
+2023-06-15 19:28:38,938: INFO: Test_RegiPage: root: select gender
+2023-06-15 19:28:42,046: INFO: Test_RegiPage: root: click on first name button
+2023-06-15 19:28:44,151: INFO: Test_RegiPage: root: type first name successfully
+2023-06-15 19:28:44,226: INFO: Test_RegiPage: root: click on last name button
+2023-06-15 19:28:46,272: INFO: Test_RegiPage: root: type last name successfully
+2023-06-15 19:28:46,369: INFO: Test_RegiPage: root: click on day
+2023-06-15 19:28:46,440: INFO: Test_RegiPage: root:  type day Successfully
+2023-06-15 19:28:46,554: INFO: Test_RegiPage: root:  click on month
+2023-06-15 19:28:46,618: INFO: Test_RegiPage: root:  type on month Successfully
+2023-06-15 19:28:46,723: INFO: Test_RegiPage: root:  click on year
+2023-06-15 19:28:46,784: INFO: Test_RegiPage: root:  type on year Successfully
+2023-06-15 19:28:46,918: INFO: Test_RegiPage: root:  type Email Successfully
+2023-06-15 19:28:47,010: INFO: Test_RegiPage: root:  type Company Name Successfully
+2023-06-15 19:28:47,089: INFO: Test_RegiPage: root:  type Password Successfully
+2023-06-15 19:28:47,172: INFO: Test_RegiPage: root:  type Conf-Password Successfully
+2023-06-15 19:28:47,638: INFO: Test_RegiPage: root:  click on reg-button
+2023-06-15 19:28:50,673: INFO: Test_RegiPage: root: User Already Exist msg
